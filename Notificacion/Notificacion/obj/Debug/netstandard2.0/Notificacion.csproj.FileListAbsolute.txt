@@ -1,0 +1,16 @@
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\bin\Debug\netstandard2.0\Notificacion.deps.json
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\bin\Debug\netstandard2.0\Notificacion.dll
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\bin\Debug\netstandard2.0\ref\Notificacion.dll
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\bin\Debug\netstandard2.0\Notificacion.pdb
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\Notificacion.csproj.AssemblyReference.cache
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\Notificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\HolaPage.xaml.g.cs
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\Notificacion.AssemblyInfoInputs.cache
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\Notificacion.AssemblyInfo.cs
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\Notificacion.csproj.CoreCompileInputs.cache
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\Notificacion.dll
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\refint\Notificacion.dll
+C:\Users\Grace\source\repos\Notificacion\Notificacion\Notificacion\obj\Debug\netstandard2.0\Notificacion.pdb

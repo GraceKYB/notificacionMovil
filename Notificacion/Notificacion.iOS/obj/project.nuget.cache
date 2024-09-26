@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "C7+5hwEBPppFBQ4IpcgmnlJqEKs3R0l1eBnb+5c09WlI6A6H9zRtPlk0Vixx+12Alu34qBssH1yjJqHPoAtDnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Grace\\source\\repos\\Notificacion\\Notificacion\\Notificacion.iOS\\Notificacion.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Grace\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Grace\\.nuget\\packages\\plugin.localnotification\\9.2.0\\plugin.localnotification.9.2.0.nupkg.sha512",
+    "C:\\Users\\Grace\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Grace\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Grace\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
